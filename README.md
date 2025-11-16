@@ -109,7 +109,7 @@ No fim, percebi que o desafio não era apenas criar um app de finanças, mas apr
 
 ## 🚀 Link do Repositório
 
-> [Cole aqui o link do seu fork na DIO ou GitHub]
+> [https://github.com/Oliveirclau/dio-lab-vibe-coding-app-financas]
 
 ---
 
